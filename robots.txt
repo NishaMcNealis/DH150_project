@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nishamcnealis.github.io/DH150_project/sitemap.xml

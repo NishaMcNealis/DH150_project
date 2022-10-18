@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DH 150 Mini-Assignment 1</title>
+    <link href="https://nishamcnealis.github.io/DH150_project/feed.xml" rel="self" />
+    <link href="https://nishamcnealis.github.io/DH150_project" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>Nisha McNealis</name>
+    </author>
+    <id>https://nishamcnealis.github.io/DH150_project</id>
+
+</feed>
