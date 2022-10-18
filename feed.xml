@@ -3,10 +3,30 @@
     <title>DH 150 Mini-Assignment 1</title>
     <link href="https://nishamcnealis.github.io/DH150_project/feed.xml" rel="self" />
     <link href="https://nishamcnealis.github.io/DH150_project" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2022-10-17T19:21:59-07:00</updated>
     <author>
         <name>Nisha McNealis</name>
     </author>
     <id>https://nishamcnealis.github.io/DH150_project</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Nisha McNealis</name>
+        </author>
+        <link href="https://nishamcnealis.github.io/DH150_project/about.html"/>
+        <id>https://nishamcnealis.github.io/DH150_project/about.html</id>
+
+        <updated>2022-10-17T19:21:59-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Nisha McNealis is a fourth-year computer science major at UCLA. This project was created for DH 150: Digital Storytelling in Fall 2022.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nisha McNealis is a fourth-year computer science major at UCLA. This project was created for DH 150: Digital Storytelling in Fall 2022.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
